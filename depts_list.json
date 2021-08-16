@@ -1,0 +1,345 @@
+[
+    {
+        "cn": "Dominik Mazurek",
+        "physicalDeliveryOfficeName": "M12",
+        "telephoneNumber": "61",
+        "memberOf": [
+            "Kierownicy"
+        ],
+        "userAccountControl": "512",
+        "mail": "dm@powiat.pl",
+        "dept": "DR"
+    },
+    {
+        "cn": "Wanda Szymczak",
+        "physicalDeliveryOfficeName": "A11",
+        "telephoneNumber": "62",
+        "memberOf": [
+            "Kierownicy"
+        ],
+        "userAccountControl": "512",
+        "mail": "ws@powiat.pl",
+        "dept": "ST"
+    },
+    {
+        "cn": "Adrian Sobczak",
+        "physicalDeliveryOfficeName": "A9",
+        "telephoneNumber": "63",
+        "memberOf": [
+            "Kierownicy"
+        ],
+        "userAccountControl": "512",
+        "mail": "as@powiat.pl",
+        "dept": "SOP"
+    },
+    {
+        "cn": "Anatolia Woźniak",
+        "physicalDeliveryOfficeName": "B8",
+        "telephoneNumber": "64",
+        "memberOf": [
+            "Kierownicy"
+        ],
+        "userAccountControl": "512",
+        "mail": "aw@powiat.pl",
+        "dept": "GN"
+    },
+    {
+        "cn": "Alek Chmielewski",
+        "physicalDeliveryOfficeName": "B7",
+        "telephoneNumber": "65",
+        "memberOf": [
+            "Kierownicy"
+        ],
+        "userAccountControl": "512",
+        "mail": "ac@powiat.pl",
+        "dept": "OS"
+    },
+    {
+        "cn": "Konstancja Cieślak",
+        "physicalDeliveryOfficeName": "A6",
+        "telephoneNumber": "66",
+        "memberOf": [
+            "Kierownicy"
+        ],
+        "userAccountControl": "512",
+        "mail": "kc@powiat.pl",
+        "dept": "FN"
+    },
+    {
+        "cn": "Daniel Sobczak",
+        "physicalDeliveryOfficeName": "A5",
+        "telephoneNumber": "67",
+        "memberOf": [
+            "Kierownicy"
+        ],
+        "userAccountControl": "512",
+        "mail": "ds@powiat.pl",
+        "dept": "AI"
+    },
+    {
+        "cn": "Florentyna Szczepańska",
+        "physicalDeliveryOfficeName": "A4",
+        "telephoneNumber": "68",
+        "memberOf": [
+            "Kierownicy"
+        ],
+        "userAccountControl": "512",
+        "mail": "fs@powiat.pl",
+        "dept": "OW"
+    },
+    {
+        "cn": "Ireneusz Cieślak",
+        "physicalDeliveryOfficeName": "A3",
+        "telephoneNumber": "69",
+        "memberOf": [
+            "Kierownicy"
+        ],
+        "userAccountControl": "66048",
+        "mail": "ic@powiat.pl",
+        "dept": "OR"
+    },
+    {
+        "cn": "Jadwiga Brzezińska",
+        "physicalDeliveryOfficeName": "A2",
+        "telephoneNumber": "70",
+        "memberOf": [
+            "Kierownicy"
+        ],
+        "userAccountControl": "512",
+        "mail": "jb@powiat.pl",
+        "dept": "KM"
+    },
+    {
+        "cn": "Aureliusz Szymczak",
+        "physicalDeliveryOfficeName": "A1",
+        "telephoneNumber": "71",
+        "userAccountControl": "512",
+        "mail": "as@powiat.pl",
+        "dept": "KM"
+    },
+    {
+        "cn": "Joanna Kwiatkowska",
+        "physicalDeliveryOfficeName": "A209",
+        "telephoneNumber": "72",
+        "userAccountControl": "512",
+        "mail": "jk@powiat.pl",
+        "dept": "KM"
+    },
+    {
+        "cn": "Aleksy Czarnecki",
+        "physicalDeliveryOfficeName": "A208",
+        "telephoneNumber": "73",
+        "memberOf": [
+            "IT"
+        ],
+        "userAccountControl": "512",
+        "mail": "ac@powiat.pl",
+        "dept": "OR"
+    },
+    {
+        "cn": "Iza Baranowska",
+        "physicalDeliveryOfficeName": "A207",
+        "telephoneNumber": "74",
+        "memberOf": [
+            "IT"
+        ],
+        "userAccountControl": "66048",
+        "mail": "ib@powiat.pl",
+        "dept": "OR"
+    },
+    {
+        "cn": "Cyprian Wojciechowski",
+        "physicalDeliveryOfficeName": "A206",
+        "telephoneNumber": "75",
+        "memberOf": [
+            "IT"
+        ],
+        "userAccountControl": "66048",
+        "mail": "cw@powiat.pl",
+        "dept": "OR"
+    },
+    {
+        "cn": "Stanisława Wróblewska",
+        "physicalDeliveryOfficeName": "A205",
+        "telephoneNumber": "76",
+        "userAccountControl": "512",
+        "mail": "sw@powiat.pl",
+        "dept": "OR"
+    },
+    {
+        "cn": "Mateusz Piotrowski",
+        "physicalDeliveryOfficeName": "A204",
+        "telephoneNumber": "77",
+        "userAccountControl": "512",
+        "mail": "mp@powiat.pl",
+        "dept": "OR"
+    },
+    {
+        "cn": "Natasza Ostrowska",
+        "physicalDeliveryOfficeName": "A203",
+        "telephoneNumber": "78",
+        "userAccountControl": "512",
+        "mail": "no@powiat.pl",
+        "dept": "OW"
+    },
+    {
+        "cn": "Cyprian Sadowska",
+        "physicalDeliveryOfficeName": "A202",
+        "telephoneNumber": "79",
+        "userAccountControl": "512",
+        "mail": "cs@powiat.pl",
+        "dept": "OW"
+    },
+    {
+        "cn": "Hortensja Adamska",
+        "physicalDeliveryOfficeName": "A201",
+        "telephoneNumber": "80",
+        "userAccountControl": "66048",
+        "mail": "ha@powiat.pl",
+        "dept": "AI"
+    },
+    {
+        "cn": "Marian Kwiatkowski",
+        "physicalDeliveryOfficeName": "A109",
+        "telephoneNumber": "81",
+        "userAccountControl": "512",
+        "mail": "mk@powiat.pl",
+        "dept": "AI"
+    },
+    {
+        "cn": "Amelia Zalewska",
+        "physicalDeliveryOfficeName": "A108",
+        "telephoneNumber": "82",
+        "userAccountControl": "512",
+        "mail": "az@powiat.pl",
+        "dept": "FN"
+    },
+    {
+        "cn": "Daniel Wasilewska",
+        "physicalDeliveryOfficeName": "A107",
+        "telephoneNumber": "83",
+        "userAccountControl": "512",
+        "mail": "dw@powiat.pl",
+        "dept": "FN"
+    },
+    {
+        "cn": "Sylwia Kwiatkowska",
+        "physicalDeliveryOfficeName": "B106",
+        "telephoneNumber": "84",
+        "userAccountControl": "512",
+        "mail": "sk@powiat.pl",
+        "dept": "OS"
+    },
+    {
+        "cn": "Natan Brzeziński",
+        "physicalDeliveryOfficeName": "B105",
+        "telephoneNumber": "85",
+        "userAccountControl": "512",
+        "mail": "nb@powiat.pl",
+        "dept": "OS"
+    },
+    {
+        "cn": "Lucyna Brzezińska",
+        "physicalDeliveryOfficeName": "B104",
+        "telephoneNumber": "86",
+        "userAccountControl": "512",
+        "mail": "lb@powiat.pl",
+        "dept": "GN"
+    },
+    {
+        "cn": "Milan Krupa",
+        "physicalDeliveryOfficeName": "B103",
+        "telephoneNumber": "87",
+        "userAccountControl": "512",
+        "mail": "mk@powiat.pl",
+        "dept": "GN"
+    },
+    {
+        "cn": "Jola Nowak",
+        "physicalDeliveryOfficeName": "A102",
+        "telephoneNumber": "88",
+        "userAccountControl": "512",
+        "mail": "jn@powiat.pl",
+        "dept": "SOP"
+    },
+    {
+        "cn": "Rafał Zieliński",
+        "physicalDeliveryOfficeName": "A101",
+        "telephoneNumber": "89",
+        "userAccountControl": "512",
+        "mail": "rz@powiat.pl",
+        "dept": "SOP"
+    },
+    {
+        "cn": "Lila Sawicka",
+        "physicalDeliveryOfficeName": "A009",
+        "telephoneNumber": "90",
+        "userAccountControl": "512",
+        "mail": "ls@powiat.pl",
+        "dept": "BR"
+    },
+    {
+        "cn": "Edward Kowalski",
+        "physicalDeliveryOfficeName": "A008",
+        "telephoneNumber": "91",
+        "userAccountControl": "512",
+        "mail": "ek@powiat.pl",
+        "dept": "SK"
+    },
+    {
+        "cn": "Regina Walczak",
+        "physicalDeliveryOfficeName": "A007",
+        "telephoneNumber": "92",
+        "userAccountControl": "512",
+        "mail": "rw@powiat.pl",
+        "dept": "SE"
+    },
+    {
+        "cn": "Amir Duda",
+        "physicalDeliveryOfficeName": "A006",
+        "telephoneNumber": "93",
+        "userAccountControl": "512",
+        "mail": "ad@powiat.pl",
+        "dept": "WS"
+    },
+    {
+        "cn": "Lidia Makowska",
+        "physicalDeliveryOfficeName": "A005",
+        "telephoneNumber": "94",
+        "userAccountControl": "512",
+        "mail": "lm@powiat.pl",
+        "dept": "AW"
+    },
+    {
+        "cn": "Dominik Mróz",
+        "physicalDeliveryOfficeName": "A004",
+        "telephoneNumber": "95",
+        "userAccountControl": "66048",
+        "mail": "dm@powiat.pl",
+        "dept": "RP"
+    },
+    {
+        "cn": "Oktawia Jasińska",
+        "physicalDeliveryOfficeName": "M003",
+        "telephoneNumber": "96",
+        "userAccountControl": "512",
+        "mail": "oj@powiat.pl",
+        "dept": "DR"
+    },
+    {
+        "cn": "Błażej Chmielewski",
+        "physicalDeliveryOfficeName": "M002",
+        "telephoneNumber": "97",
+        "userAccountControl": "512",
+        "mail": "bc@powiat.pl",
+        "dept": "DR"
+    },
+    {
+        "cn": "Joanna Wójcik",
+        "physicalDeliveryOfficeName": "A001",
+        "telephoneNumber": "98",
+        "userAccountControl": "66048",
+        "mail": "jw@powiat.pl",
+        "dept": "NPP"
+    }
+]
