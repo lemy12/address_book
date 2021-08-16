@@ -19,7 +19,7 @@ def sort_for_kierownicy(personnel):                      # wyślij kierowników 
 
 
 def search_ou(dept_letters, ldap_server):                   # szukaj osób w poszczególnych działach
-    search_base = 'OU=' + dept_letters + ',OU=Pracownicy,DC=pch,DC=lan'
+    search_base = 'OU=' + dept_letters + ',OU=Pracownicy,DC=*,DC=*'
     result_ou = ldap_server.search_s(search_base, ldap.SCOPE_SUBTREE, OBJECT_TO_SEARCH, ATTRIBUTES_TO_SEARCH)
     return dept_letters, result_ou
 
@@ -42,7 +42,7 @@ def dept_to_list(dept_letters, result):                     # wypisz wszystkie o
 
 
 def get_dept_letters(ldap_server):
-    dept_search = ldap_server.search_s('OU=Pracownicy,DC=pch,DC=lan', ldap.SCOPE_SUBTREE, 'objectClass=organizationalUnit', ['ou'])
+    dept_search = ldap_server.search_s('OU=Pracownicy,DC=*,DC=*', ldap.SCOPE_SUBTREE, 'objectClass=organizationalUnit', ['ou'])
     dept_letters_list = []
     for each in dept_search:
         dept_letters_list.append(each[1]['ou'][0].decode("utf-8"))
